@@ -4,4 +4,3 @@ gcloud run deploy --image gcr.io/beginners-project-69/perform_ocr --platform man
 
 https://getprediction-wf2dwnbrwq-et.a.run.app
 
-gcloud builds submit --tag gcr.io/beginners-project-69/your-image-name
